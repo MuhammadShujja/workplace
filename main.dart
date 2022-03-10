@@ -26,8 +26,9 @@ main() {
   String Str = "My name is shujja";
   var str = Str.split(" ");
   print(str[3]); // answer is  shujja
+
   // string compared
   var str1 = "Shujja";
   var str2 = "shujja";
-  print(str1.compareTo(str2));
+  print(str1.compareTo(str2)); // if str1 is greater then str2 then answer is -1
 }
