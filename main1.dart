@@ -8,6 +8,10 @@ main() {
   print("$value Plus $value makes ${value + value}");
   print("I like $pizza and $pasta");
 
+  // e temperature is 30.0C
+  // 2 Plus 2 makes 4
+  // I like pizza and pasta
+
   //Second program
   print("Today I'm feeling great");
   print("Today I\'m feeling great");
